@@ -7,3 +7,6 @@ https://github.com/Raschka-research-group/coral-cnn
 
 ## SEnet
 https://github.com/moskomule/senet.pytorch
+
+## NasNet
+https://github.com/MarSaKi/nasnet
