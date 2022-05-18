@@ -10,3 +10,14 @@ https://github.com/moskomule/senet.pytorch
 
 ## NasNet
 https://github.com/MarSaKi/nasnet
+
+
+## Dataset
+### AFAD-FUll
+서버에 있음
+
+### CACD
+서버에 없음
+
+### MORPH2
+서버에 없음
